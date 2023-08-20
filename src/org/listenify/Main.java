@@ -42,6 +42,7 @@ public class Main {
 
         System.out.println(result);
         System.out.println("First Commit");
+        System.out.println("Second Commit");
 
     }
 }
