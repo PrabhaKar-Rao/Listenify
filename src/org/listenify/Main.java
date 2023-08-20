@@ -41,6 +41,7 @@ public class Main {
         albums.get(1).addSongToPlayList("No song",playList_1);
 
         System.out.println(result);
+        System.out.println("First Commit");
 
     }
 }
